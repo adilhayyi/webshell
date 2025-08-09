@@ -1,13 +1,13 @@
 ---
 layout: default
-title: WebShell
+title: webshell
 ---
 
-<!-- # [WebShell](https://adilhayyi.github.io/WebShell) -->
+<!-- # [webshell](https://adilhayyi.github.io/webshell) -->
 
 <a id="top"></a>
 
-![hudaw](https://adilhayyi.github.io/WebShell/screenshot.png)
+![hudaw](https://adilhayyi.github.io/webshell/screenshot.png)
 
 Shell Backdoor, could be useful for the needs of
 
